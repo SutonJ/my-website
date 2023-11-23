@@ -2,6 +2,4 @@
 
 This is really aswome website
 
-Now editing on update-redme branch
-
-Update locally
+Updates made on main on GitHub before rebase.
